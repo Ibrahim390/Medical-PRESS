@@ -1,0 +1,347 @@
+.top-img{
+    height: 181px;
+    width: 100%;
+    background-image: url('img/s8.png');
+    background-size: cover;
+}
+.img-under-textdiv{
+padding: 30px 14.37% 31px 14.37%;
+}
+.big-text{
+height: 35px;
+width: 264px;
+font-family: Raleway;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: left;
+border-radius: undefinedpx;
+color: #3A3C41;
+
+}
+.small-text{
+    font-family: Raleway;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7B7D85;
+}
+
+
+.divall-5link{
+    padding: 42px 14.37% 36px 14.37%;
+    background-color: #F0F5F7;
+
+}
+.divall-5link a{
+    font-family: Raleway;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: #7B7D85;
+padding-right: 17px;
+}
+.tophrdiv{
+    margin-top: 24px;
+}
+.tophrdiv hr{
+    display: inline-block;
+}
+hr.hr1{
+    border: 1px solid #DCDEE4;
+}
+hr.hr2{
+    border: 1px solid #FF0000;
+    width: 101px;
+    margin-top:-2px;
+}
+
+
+
+/* card top text */
+.top-card-text {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #F0F5F7;
+}
+.top-card-text h1{
+    font-family: Raleway;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: 0.005em;
+    padding: 13px 0px 12px 0px;
+}
+.top-card-text h1 span{
+    font-family: Raleway;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.005em;
+}
+.top-card-text p{
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.005em; 
+    padding-bottom: 54px;
+
+
+}
+/* card start */
+.card{
+    background-color: #F0F5F7; 
+    padding: 0 13%;
+    padding-bottom: 40px;
+}
+
+.card .aaa{
+    background-color:#F0F5F7;  ;
+    padding:0%;
+}
+.card h2{
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: -0.005em;
+    text-align: center;
+    padding: 18px 0px;
+    background-color: white;
+
+}
+.card .hrimgdiv{
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.card hr{
+    margin: 0 22px;
+    color: #E0E2E7;
+}
+.imgh{
+    position: absolute;
+    text-align: center;
+    bottom: -6px;
+    padding: 6px;
+    background-color: #DFE1E6;
+}
+.card p{
+    padding: 24px 15px 34px 15px;
+    background-color: white;
+    line-height: 26px;
+    text-align: center;
+}
+
+
+.card-img-1{
+    background-image: url('img/p6.png');
+    min-height: 272px;
+    background-size: cover;
+}
+
+.card-img-2{
+    background-image: url('img/p7.png');
+    min-height: 272px;
+    background-size: cover;
+}
+
+.card-img-3{
+    background-image: url('img/p8.png');
+    min-height: 272px;
+    background-size: cover;
+}
+.card-img-4{
+    background-image: url('img/s9.png');
+    min-height: 272px;
+    background-size: cover;
+}
+
+.card-img-5{
+    background-image: url('img/s10.png');
+    min-height: 272px;
+    background-size: cover;
+}
+.card-img-6{
+    background-image: url('img/s11.png');
+    min-height: 272px;
+    background-size: cover;
+}
+
+
+
+.column-icon {
+    text-align: center;
+    background-color: #Fff;
+    padding-bottom: 25px;
+
+}
+.column-icon i{
+    padding: 11px 9px;
+    background-color: #DCDEE4;
+   font-size: 19px;
+   margin-right: 5px;
+   color: #Fff;
+}
+
+
+
+    /* footer start */
+    footer{
+        background-color: #3A3C41;
+        padding: 111px 13% 34px 13%;
+}
+footer h3{
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 21px;
+        letter-spacing: 0.015em;
+        text-align: left;
+        padding-bottom: 33px;
+        color: #Fff;
+}
+footer p{
+        font-family: Raleway;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 16px;
+        letter-spacing: -0.01em;
+        text-align: left;
+        color: #9BA0AA;
+        line-height: 26px;
+        padding-right: 10%;
+}
+footer hr{
+
+        height: 1px;
+        left: 7127px;
+        top: -453px;
+        border: 1px solid #4A4C52;
+        margin: 6px 0px 6px 0px;
+
+}
+footer input[type=submit]{
+        height: 48px;
+        width: 104px;
+        font-family: Raleway;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0em;
+        background: #67C9E0;
+        color: #Fff;
+        margin: 10px 0px;
+        border:0px;
+}
+
+footer input[type=text]{
+        height: 47px;
+        width: 260px;
+        left: 7705px;
+        top: -440px;
+        border-radius: 0px;
+        background-color: #515359;
+        border:0px;
+        margin: 10px 0px;
+}
+
+footer label{
+        font-family: Raleway;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #9BA0AA;
+}
+footer .bottom-hr{
+       margin-top: 138px;
+
+}
+footer .icon  {
+      text-align: right;
+
+}
+footer .icon i{
+        padding: 10px;
+        color: #53565C;
+}
+/* footer end */
+
+
+/* midea Queris */
+
+
+@media(max-width:575px){
+    .img-text{
+        position: absolute;
+        color: #3A3C41;
+        left:5%;
+        top:2%;
+        }
+        .imgh2{
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .img-text p{
+        margin-top:6px ;
+        margin-bottom:5px;
+        font-family: Raleway;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        letter-spacing: -0.005em;
+        text-align: left;
+        
+        }
+        .text-linka{
+            font-family: Raleway;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        letter-spacing: 0.075em;
+        text-align: left;
+        background-color: #F15B5A;
+        padding: 5px 5px;
+        }
+
+
+
+        .text-row{
+            padding:1px;
+        }
+        .card{
+            padding: 1px;
+        }
+        .card2{
+            background-color: #fff; 
+            padding:1px;
+            padding-bottom: 95px;
+        }
+        .card3{
+            background-color: #F0F5F7; 
+            padding: 1px;
+            padding-bottom: 95px;
+        }
+        footer{
+            background-color: #3A3C41;
+            padding:1px;
+        }
+
+      
+}
